@@ -4,4 +4,4 @@
 
 ---
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,vite,react,nodejs,express,mongodb,ts,blender,figma,postman,pug,tailwind)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,vite,react,nodejs,express,mongodb,ts,figma,postman,pug,tailwind)](https://skillicons.dev)
