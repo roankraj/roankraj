@@ -1,6 +1,6 @@
 # Hey There! 👋
 
-My name is **Ronak Raj**, currently pursuing my B.Tech in Computer Science Engineering (CSE) from BIT Mesra, Ranchi.
+My name is **Ronak Raj**, currently pursuing my B.Tech in Computer Science and Engineering (CSE) from BIT Mesra, Ranchi.
 
 ---
 
